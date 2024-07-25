@@ -1,0 +1,29 @@
+25 /07 /2024 01:56:16 PM: INFO: test_addtocart: test_001: TEST CASE 001
+25 /07 /2024 01:56:16 PM: INFO: test_addtocart: test_001: test case starting
+25 /07 /2024 01:56:21 PM: INFO: test_addtocart: test_001: entered username
+25 /07 /2024 01:56:21 PM: INFO: test_addtocart: test_001: entered Password
+25 /07 /2024 01:56:21 PM: INFO: test_addtocart: test_001: Click on Login Button
+25 /07 /2024 01:56:26 PM: INFO: test_addtocart: test_001: Verify Catagories
+25 /07 /2024 01:56:31 PM: INFO: test_addtocart: test_001: Click on Next Button
+25 /07 /2024 01:56:37 PM: INFO: test_addtocart: test_001: Select last product
+25 /07 /2024 01:56:40 PM: INFO: test_addtocart: test_001: click on add product to the cart
+25 /07 /2024 01:56:53 PM: INFO: test_addtocart: test_001: Product added Successfully to the cart
+25 /07 /2024 01:56:58 PM: INFO: test_addtocart: test_001: Click on Logout Button
+erify Catagories
+25 /07 /2024 01:56:31 PM: INFO: test_addtocart: test_001: Click on Next Button
+25 /07 /2024 01:56:37 PM: INFO: test_addtocart: test_001: Select last product
+25 /07 /2024 01:56:40 PM: INFO: test_addtocart: test_001: click on add product to the cart
+25 /07 /2024 01:56:53 PM: INFO: test_addtocart: test_001: Product added Successfully to the cart
+25 /07 /2024 01:56:58 PM: INFO: test_addtocart: test_001: Click on Logout Button
+gories
+25 /07 /2024 01:56:31 PM: INFO: test_addtocart: test_001: Click on Next Button
+25 /07 /2024 01:56:37 PM: INFO: test_addtocart: test_001: Select last product
+25 /07 /2024 01:56:40 PM: INFO: test_addtocart: test_001: click on add product to the cart
+25 /07 /2024 01:56:53 PM: INFO: test_addtocart: test_001: Product added Successfully to the cart
+25 /07 /2024 01:56:58 PM: INFO: test_addtocart: test_001: Click on Logout Button
+es
+25 /07 /2024 01:56:31 PM: INFO: test_addtocart: test_001: Click on Next Button
+25 /07 /2024 01:56:37 PM: INFO: test_addtocart: test_001: Select last product
+25 /07 /2024 01:56:40 PM: INFO: test_addtocart: test_001: click on add product to the cart
+25 /07 /2024 01:56:53 PM: INFO: test_addtocart: test_001: Product added Successfully to the cart
+25 /07 /2024 01:56:58 PM: INFO: test_addtocart: test_001: Click on Logout Button
